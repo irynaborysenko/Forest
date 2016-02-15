@@ -7,11 +7,11 @@ package com.example.Life;
 public class Beetle {
 
     public void crawl() {
-        System.out.println("Snake is crawling");
+        System.out.println("Beetle is crawling");
     }
 
     public void eating() {
-        System.out.println("Snake is eating");
+        System.out.println("Beetle is eating");
     }
 
 }
