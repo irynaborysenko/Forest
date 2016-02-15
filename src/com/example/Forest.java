@@ -11,13 +11,13 @@ import java.util.List;
  */
 
 public class Forest {
-    List<Stones> stones;
-    List<Beetles> beetles;
-    List<Birds> brids;
-    List<Hares> hares;
-    List<Mushrooms> mushroomses;
-    List<Plants> plants;
-    List<Snakes> snakes;
-    List<Trees> trees;
-    List<Wolves> wolves;
+    List<Stone> stones;
+    List<Beetle> beetles;
+    List<Bird> brids;
+    List<Hare> hares;
+    List<Mushroom> mushroomses;
+    List<Plant> plants;
+    List<Snake> snakes;
+    List<Tree> trees;
+    List<Wolve> wolves;
 }

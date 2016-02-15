@@ -4,7 +4,7 @@ package com.example.Unlife;
  * Created by: Iryna Borysenko
  * Date: 2/15/16
  */
-public class Stones {
+public class Stone {
 
     public void lay() {
         System.out.println("Stone is laying");

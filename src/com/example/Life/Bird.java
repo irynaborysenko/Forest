@@ -4,7 +4,7 @@ package com.example.Life;
  * Created by: Iryna Borysenko
  * Date: 2/15/16
  */
-public class Birds {
+public class Bird {
 
     public void sing() {
         System.out.println("Bird is singing.");

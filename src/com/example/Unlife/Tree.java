@@ -4,7 +4,7 @@ package com.example.Unlife;
  * Created by: Iryna Borysenko
  * Date: 2/15/16
  */
-public class Trees {
+public class Tree {
 
     public void photosintes() {
         System.out.println("Tree is do photosynthesis.");

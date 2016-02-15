@@ -4,7 +4,7 @@ package com.example.Life;
  * Created by: Iryna Borysenko
  * Date: 2/15/16
  */
-public class Hares {
+public class Hare {
 
     public void runAway() {
         System.out.println("Hare is running away.");
