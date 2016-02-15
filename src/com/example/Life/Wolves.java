@@ -1,4 +1,4 @@
-package com.example.Wolves;
+package com.example.Life;
 
 /**
  * Created by: Iryna Borysenko
@@ -7,11 +7,11 @@ package com.example.Wolves;
 public class Wolves {
 
     public void goHunt() {
-
+        System.out.println("Wolve is go hunting");
     }
 
     public void walking() {
-
+        System.out.println("Wolve is walking");
     }
 
 }

@@ -1,4 +1,4 @@
-package com.example.Stones;
+package com.example.Unlife;
 
 /**
  * Created by: Iryna Borysenko
@@ -7,11 +7,11 @@ package com.example.Stones;
 public class Stones {
 
     public void lay() {
-
+        System.out.println("Stone is laying");
     }
 
     public void sharpened() {
-
+        System.out.println("Stone is sharpened");
     }
 
 }

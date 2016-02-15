@@ -1,4 +1,4 @@
-package com.example.Plants;
+package com.example.Unlife;
 
 /**
  * Created by: Iryna Borysenko
@@ -7,8 +7,6 @@ package com.example.Plants;
 public class Plants {
 
     public void flutter() {
-
+        System.out.println("Grass fluttered in the wind");
     }
-
-
 }
